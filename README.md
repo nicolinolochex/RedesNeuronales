@@ -4,6 +4,13 @@ Este proyecto incluye dos enfoques complementarios de análisis de sentimiento s
 
 ---
 
+
+## 🔗 Acceso al Notebook en Google Colab
+Puedes abrir el proyecto directamente en Google Colab desde este enlace:
+
+[🔗 Abrir en Google Colab](https://colab.research.google.com/drive/1KDo7LIdMGLwkiOSHf1-WW5PVdIrjupS3)
+
+---
 ## 📘 Proyecto 1 – Procesamiento de Lenguaje Natural Tradicional
 
 **Objetivo:**  
